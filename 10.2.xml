@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+    <body>
+    	<table width="300" border="1" cellspacing="0">
+    		<caption>1811班期末分数表</caption>
+    		<thead>
+    		   <tr>
+    			<th>学号</th>
+    			<th>姓名</th>
+    			<th>分数</th>
+    		   </tr>
+    		</thead>
+    		<tbody>
+    			<tr>
+    				<td>12345</td>
+    				<td>张三</td>
+    				<td>80</td>
+    			</tr>
+    			<tr>
+    				<td>12346</td>
+    				<td>李四</td>
+    				<td>85</td>
+    			</tr>
+    			<tr>
+    				<td>12347</td>
+    				<td>王五</td>
+    				<td>90</td>
+    			</tr>
+    		</tbody>
+    		<tfoot>
+    			<tr>
+    				<td colspan="2">共三人</td>
+    			</tr>
+    		</tfoot>
+    	</table>
+		
+	</body>	
+</html>
